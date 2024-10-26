@@ -1,4 +1,11 @@
-html {
-  height: 100%;
-  width: 100%;
+div {
+  font-size: 100px;
+}
+
+.myFirstClass {
+  background-color: red;
+}
+
+.divThree {
+  background-color: blue;
 }
