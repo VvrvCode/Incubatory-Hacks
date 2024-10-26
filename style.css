@@ -6,6 +6,10 @@ div {
   background-color: red;
 }
 
+.divTwo {
+  font-size: 50px;
+}
 .divThree {
+  font-size: 20px;
   background-color: blue;
 }
